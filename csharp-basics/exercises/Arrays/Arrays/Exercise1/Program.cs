@@ -7,6 +7,7 @@ namespace Exercise1
         //TODO: Write a C# program to sort a numeric array and a string array.
         private static void Main(string[] args)
         {
+            
             int[] myArray1 = 
             {
                 1789, 2035, 1899, 1456, 2013,

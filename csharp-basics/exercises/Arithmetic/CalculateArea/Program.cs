@@ -13,6 +13,7 @@ namespace CalculateArea
             // Get the user's menu choice.
             //int area = Console.ReadKey();
             int menuAnswer = GetMenu();
+            
 
             //Console.WriteLine("getmenu atbilde : " + GetMenu());
             switch (menuAnswer) {
