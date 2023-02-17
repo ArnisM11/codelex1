@@ -14,9 +14,6 @@ internal class Program
         var minutesToDays = minutes % minutesInYear;
         var days = minutesToDays / minutesInDay;
 
-
-
-
         Console.WriteLine("Its " + years + " and " + days + " days.");
         Console.ReadKey();
     }
